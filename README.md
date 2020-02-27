@@ -46,4 +46,5 @@ Run the Jmol/Jsmol script:
 w.script = "set background red"
 ```
 
-This widget need internet to fetch Jsmol files to show the visualizer.
+<span style="color:red"> *This widget need internet to fetch Jsmol files to show
+the visualizer.*</span>
