@@ -58,4 +58,4 @@ the visualizer.*</span>
 We acknowledge support from:
 * EPFL Open Science Fund
 
-![Image of OSSCAR](/images/OSSCAR-logo.png | width=100)
+<img src='/images/OSSCAR-logo.png' width='350'>
