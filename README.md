@@ -52,3 +52,10 @@ w.script = "set background red"
 
 <span style="color:red"> *This widget need internet to fetch Jsmol files to show
 the visualizer.*</span>
+
+# Acknowlegements
+
+We acknowledge support from:
+* EPFL Open Science Fund
+
+![Image of OSSCAR](/images/OSSCAR-logo.png | width=100)
