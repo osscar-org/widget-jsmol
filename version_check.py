@@ -2,7 +2,7 @@ from setupbase import get_version
 from os.path import join as pjoin 
 import json 
 
-name = 'widget_periodictable'
+name = 'widget_jsmol'
 
 version_py = get_version(pjoin(name, '_version.py'))  
 
