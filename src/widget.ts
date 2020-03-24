@@ -33,7 +33,7 @@ class JmolModel extends DOMWidgetModel {
   }
 
   initialize() {
-    DOMWidgetModel.prototype.initialize.apply(this, arguments);
+    DOMWidgetModel.prototype.initialize.apply(this, arguments as any);
     this.attributes['jmol_window_id'] = _.uniqueId('jmol_window');
     this.attributes['jmol_app_id'] = _.uniqueId('jmol_app');
   }
