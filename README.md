@@ -5,7 +5,7 @@ A Jupyter widget to use Jmol/Jsmol.
 
 ## Try it on Binder
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/osscar-org/widget-jsmol/master?urlpath=%2Flab%2Ftree%2Fexamples%2Fintroduction.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/osscar-org/widget-jsmol/master?urlpath=%2Fvoila%2Frender%2Fexamples%2Fintroduction.ipynb)
 
 ## Installation
 
