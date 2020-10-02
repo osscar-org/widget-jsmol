@@ -32,9 +32,8 @@ jupyter nbextension enable --py [--sys-prefix|--user|--system] widget_jsmol
 
 
 
-# Acknowlegements
+# Acknowledgements
 
-We acknowledge support from:
-* EPFL Open Science Fund
+We acknowledge support from the EPFL Open Science Fund via the [OSSCAR](http://www.osscar.org) project.
 
-<img src='/images/OSSCAR-logo.png' width='350'>
+<img src='http://www.osscar.org/wp-content/uploads/2019/03/OSSCAR-logo.png' width='230'>
